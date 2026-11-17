@@ -107,6 +107,3 @@ jobs:
 
             The repository's `build-changed` CI job validates the Flatpak build before
             this update is ready to merge.
-          labels: |
-            flatpak
-            automated
